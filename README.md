@@ -12,6 +12,7 @@ System.out.println("Hello, there! Software Engineer 김주혁입니다.");
 <a href="https://www.notion.so/1b6f15337c4d803ab7c8cd280b50f8c2">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white" style="border-radius:10px">
 </a>
+</br>
 <a href="https://lightningtech.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-eb531f?style=for-the-badge&logo=tistory&logoColor=black" style="border-radius:10px">
 </a>
