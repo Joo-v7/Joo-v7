@@ -1,11 +1,11 @@
 ```java
-System.out.println("Hello, there! Software Engineer **김주혁**입니다. 😎");
+System.out.println("Hello, there! Software Engineer 김주혁입니다.");
 ```
 
-- Backend Developer 입니다.
-- DevOps와 Cloud Native에 관심이 있고, 장기적인 전문가가 되고자 한다.
+- DevOps와 Cloud Native에 관심이 있는 Backend Developer 입니다.
 - 어떤 상황이 와도 포기하지 않고, 끝까지 주어진 일을 수행합니다.
-- 사람들과 함께 지식을 나누고 성장하는 것을 즐깁니다
+- 사람들과 함께 지식을 나누고 성장하는 것을 즐깁니다.
 
 ### **About Me**
-
+<img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=tistory&logoColor=white" style="border-radius:10px">
+<img src="https://img.shields.io/badge/Blog-FE5F50?style=for-the-badge&logo=react&logoColor=black" style="border-radius:10px">
