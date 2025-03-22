@@ -1,4 +1,6 @@
-<pre> ```java System.out.println("Hello, there! Software Engineer **김주혁**입니다. 😎"); ``` </pre>
+```java
+System.out.println("Hello, there! Software Engineer **김주혁**입니다. 😎");
+```
 
 - Backend Developer 입니다.
 - DevOps와 Cloud Native에 관심이 있고, 장기적인 전문가가 되고자 한다.
