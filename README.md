@@ -1,5 +1,5 @@
 ```java
-System.out.println("Hello, there! Software Engineer 김주혁입니다.");
+System.out.println("Hello, World! Software Engineer 김주혁입니다.");
 ```
 
 - DevOps와 Cloud Native에 관심이 있는 Backend Developer 입니다.
