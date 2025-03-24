@@ -9,7 +9,7 @@ System.out.println("Hello, World! Software Engineer 김주혁입니다.");
 
 
 ### **📌 About Me**
-<a href="https://www.notion.so/1b6f15337c4d803ab7c8cd280b50f8c2">
+<a href="https://docs.google.com/document/d/1jgucYlwKmF4njFdmOUb0AwbQUVbS2p8ScNq3gKc6138/edit?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white" style="border-radius:10px">
 </a>
 </br>
