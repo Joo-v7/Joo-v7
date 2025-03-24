@@ -1,3 +1,4 @@
+## **👋 Hi there!**
 ```java
 System.out.println("Hello, World! Software Engineer 김주혁입니다.");
 ```
@@ -8,7 +9,7 @@ System.out.println("Hello, World! Software Engineer 김주혁입니다.");
 
 
 
-### **💁🏻 About Me**
+## **💁🏻 About Me**
 <a href="https://docs.google.com/document/d/1jgucYlwKmF4njFdmOUb0AwbQUVbS2p8ScNq3gKc6138/edit?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white" style="border-radius:10px">
 </a>
@@ -17,7 +18,7 @@ System.out.println("Hello, World! Software Engineer 김주혁입니다.");
     <img src="https://img.shields.io/badge/Blog-eb531f?style=for-the-badge&logo=tistory&logoColor=black" style="border-radius:10px">
 </a>
 
-### **⚒️ Skills**
+## **⚒️ Skills**
 - Java
 - Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring Gateway, Spring Eureka
 - MySQL, H2, Redis
