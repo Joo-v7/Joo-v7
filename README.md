@@ -22,7 +22,7 @@ System.out.println("Hello, World! Software Engineer 김주혁입니다.");
 
 ## **⚒️ Skills**
 - Java
-- Spring, Spring MVC, Spring Security, Spring Data JPA, Spring Gateway, Spring Eureka
+- Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring Gateway, Spring Eureka
 - MySQL, H2, Redis
 - Nginx, Apache Tomcat
 - Junit 5, AssertJ, Mockito
